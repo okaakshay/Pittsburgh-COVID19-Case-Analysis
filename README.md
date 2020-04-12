@@ -1,4 +1,3 @@
-# Pittsburgh COVID19 Case Analysis
 
 As cities and countries around the world are battling the COVID-19 pandemic, lets take a look at Pittsburgh's fight and some preliminary trends arising out of the mitigation measures taken. 
 
